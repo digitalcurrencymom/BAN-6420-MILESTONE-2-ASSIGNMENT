@@ -1,0 +1,11 @@
+Logistic Regression on 2 PCA components
+Accuracy: 0.9912
+
+              precision    recall  f1-score   support
+
+           0       1.00      0.98      0.99        43
+           1       0.99      1.00      0.99        71
+
+    accuracy                           0.99       114
+   macro avg       0.99      0.99      0.99       114
+weighted avg       0.99      0.99      0.99       114
